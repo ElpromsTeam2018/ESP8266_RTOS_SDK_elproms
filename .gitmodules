@@ -17,3 +17,6 @@
 [submodule "components/coap/libcoap"]
 	path = components/coap/libcoap
 	url = ../../obgm/libcoap.git
+[submodule "embedded_firmware_base"]
+	path = embedded_firmware_base
+	url = git@github.com:ElpromsTeam2018/embedded_firmware_base.git
